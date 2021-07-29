@@ -1,5 +1,5 @@
 
-# Essentials - Valid Sentence Coding Test
+# Valid Sentence Coding Test
 
 A command line interface program to test the validity of strings based on a set of rules.
 
